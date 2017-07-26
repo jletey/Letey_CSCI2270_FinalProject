@@ -37,7 +37,7 @@ My program reads in from a file called "map.txt". That file contains cities for 
 
 Wow. That's a bit to digest. Here's what my "built-in" txt file looks like:
 
-![settings window](https://github.com/JohnLetey/Letey_CSCI2270_FinalProject/blob/master/map.png?raw=true)
+![settings window](https://github.com/JohnLetey/Letey_CSCI2270_FinalProject/blob/master/map.PNG?raw=true)
 
 I've included the built-in "map.txt" file for you to test with, but feel free to change up the map cities (just as long as you follow the formatting above).
 
