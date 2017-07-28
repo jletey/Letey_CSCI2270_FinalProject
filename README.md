@@ -39,7 +39,7 @@ Wow. That's a bit to digest. Here's what my "built-in" txt file looks like:
 
 ![settings window](https://github.com/JohnLetey/Letey_CSCI2270_FinalProject/blob/master/map.PNG?raw=true)
 
-I've included the built-in "map.txt" file for you to test with, but feel free to change up the map cities (just as long as you follow the formatting above).
+I've included the built-in "map.txt" file for you to test with, but my program allows you to add cities and roads plus edited the "map.txt" file to include your new changes.
 
 In order to find the shortest path, run the file "map.cpp." You will be asked to enter your starting location and destination. If you want to change the map that is used, unfortunately, you will have to go into "map.txt" and manually edit the data that my program uses.
 
@@ -49,4 +49,4 @@ I implemented this project in a C++ editor called Sublime, but it's meant to be 
 
 **Improvements**
 
-One of the things I would like to implement to expand my project is to allow for multiple states in the map, because so far, I've only set it up to include one state (Colorado, in the case of the built-in map). In addition to that, I would like my program to support intercity travel (such as going from Starbucks to Rio Grande Restaurant in Boulder), which is actually much more useful than what I've implemented (interstate travel). I would also like to have the user be able to add or remove cities and connections, and my program would automatically change "map.txt" and change the data to include that.
+One of the things I would like to implement to expand my project is to allow for multiple states in the map, because so far, I've only set it up to include one state (Colorado, in the case of the built-in map). In addition to that, I would like my program to support intercity travel (such as going from Starbucks to Rio Grande Restaurant in Boulder), which is actually much more useful than what I've implemented (interstate travel).
