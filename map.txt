@@ -1,0 +1,19 @@
+5
+Colorado
+Welcome to colorful Colorado!
+Louisville
+Lafayette
+Superior
+Boulder
+Glenwood Springs
+East-South Boulder Rd-Louisville-Lafayette-10
+West-South Boulder Rd-Lafayette-Louisville-10
+South-McCaslin Blvd-Louisville-Superior-5
+North-McCaslin Blvd-Superior-Louisville-5
+West-South Boulder Rd-Louisville-Boulder-15
+East-South Boulder Rd-Boulder-Louisville-15
+South West-US 36-Boulder-Superior-1
+North East-US 36-Superior-Boulder-10
+East-HWY 7(Araphahoe Ave)-Boulder-Lafayette-15
+West-HWY 7(Araphahoe Ave)-Lafayette-Boulder-15
+West-I 70-Boulder-Glenwood Springs-180
