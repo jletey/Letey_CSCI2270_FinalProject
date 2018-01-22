@@ -9,7 +9,7 @@ One of the things that Google has mastered is being able to create services that
 
 In order to implement this algorithm, I will be using Dijkstra's algorithm on a weighted graph. The graph will be stored in a txt file, and then I will output the optimal route in another text file. I will convert this into the structure-combo shown below. As far as other data structures go, Dijkstra's algorithm will also use a queue to calculate the shortest path. 
 
-![settings window](https://github.com/JohnLetey/Letey_CSCI2270_FinalProject/blob/master/datastruct.png?raw=true)
+![settings window](https://github.com/johnletey/Letey_CSCI2270_FinalProject/blob/master/datastruct.png?raw=true)
 
 My graph will be implemented using a combination of two structures. One structure will store information for the vertices, which are the type 1 structures, or the red structures. Type-1 structures store the name of the cities and an array of type 2 structures. Type 2 structures (yellow) store the information for the edges, such as the name of the road, average time spent on that road, and which city (type 1 structure) the road connects to. 
 
@@ -21,7 +21,7 @@ As stated in my project proposal, I implemented an all-pairs-shortest-path (APSP
 
 To achieve the program interface I wanted, I used a mix of two structures to create my graph class.
 
-![settings window](https://github.com/JohnLetey/Letey_CSCI2270_FinalProject/blob/master/datastruct.png?raw=true)
+![settings window](https://github.com/johnletey/Letey_CSCI2270_FinalProject/blob/master/datastruct.png?raw=true)
 
 My graph will be implemented using a combination of two structures. One structure will store information for the vertices, which are the type 1 structures, or the red structures. Type-1 structures store the name of the cities and an array of type 2 structures. Type 2 structures (yellow) store the information for the edges, such as the name of the road, average time spent on that road, and which city (type 1 structure) the road connects to.
 
@@ -37,7 +37,7 @@ My program reads in from a file called "map.txt". That file contains cities for 
 
 Wow. That's a bit to digest. Here's what my "built-in" txt file looks like:
 
-![settings window](https://github.com/JohnLetey/Letey_CSCI2270_FinalProject/blob/master/map.PNG?raw=true)
+![settings window](https://github.com/johnletey/Letey_CSCI2270_FinalProject/blob/master/map.PNG?raw=true)
 
 I've included the built-in "map.txt" file for you to test with, but my program allows you to add cities and roads plus edited the "map.txt" file to include your new changes.
 
